@@ -1,24 +1,15 @@
-# README
+# My First Rails App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+All of the code in this project was precreated by The Odin Project.
 
-Things you may want to cover:
+The point of this was to explore and walk through the life cycle of a rails app from creation to deployment.
 
-* Ruby version
+### Introduced To
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Generating a scaffold
+* Creating and migrating the database
+* Starting the rails server
+* Creating a heroku remote
+* Configuring Gemfile in preparation for deployment (changing sqlite3 to postgresql for production)
+* Configuring the root route
+* Deploying to heroku
